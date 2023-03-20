@@ -8,7 +8,7 @@ Este Site é ficticio.
 
 ## 🔨 Funcionalidades do projeto
 
-Você pode passear <a href="https://github.com/gildairmoreira/projeto-apeperia" target="_blank">no Site</a> para entender a arte conceitual do projeto.<br>
+Você pode passear <a href="https://projeto-fruto-fruta-bootstrap.vercel.app" target="_blank">no Site</a> para entender a arte conceitual do projeto.<br>
 <b>Esse site usa o Framework do Bootstrap </b>
 
 ## ✔️ Técnicas e tecnologias utilizadas
